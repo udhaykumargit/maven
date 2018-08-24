@@ -26,9 +26,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <profiles>
-  <profile>
-  <id>udhay</id>
 <build> 
         <plugins> 
           <plugin> 
@@ -86,6 +83,4 @@
       </plugins>
     </pluginManagement>
   </build>
-    </profile>
-		</profiles>
 </project>
